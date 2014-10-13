@@ -5,10 +5,10 @@ except ImportError:
 
 config = {
     'description': 'My Project',
-    'author': 'Carlos Eduardo Rivera',
+    'author': 'Your Name',
     'url': 'URL to get it at.',
     'download_url': 'Where to download it',
-    'author_email': 'cerivera@fastmail.fm',
+    'author_email': 'Your email',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['NAME'],
